@@ -47,4 +47,6 @@ We plan to achieve this by creating an awesome and inclusive community that attr
 ---------------------------------------
 
 
-*You might also want to checkout the fine folks over at [Open Design Foundation](http://opendesign.foundation) as they're also doing awesome things relating to many of these same goals.*
+*You might also want to checkout the fine folks over at [Open Design Foundation](http://web.archive.org/web/20210125021057/http://opendesign.foundation/) as they're also doing awesome things relating to many of these same goals.*
+
+*Note: **http://opendesign.foundation/** is down and what we're showing you is an archived copy of the site.*
